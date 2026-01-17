@@ -14,7 +14,7 @@ A Unity editor tool for capturing gameplay sessions as structured data. Records 
 
 1. Open Unity Package Manager: __Window > Package Manager__
 2. Click the `+` button → __Add package from git URL__
-3. Enter: `https://github.com/orvind/plaible-recorder/{choose you OS and version subfolder}`
+3. Enter: `https://github.com/orvind/plaible-recorder.git?path=/{path to os and version subfolder}` ie: https://github.com/orvind/plaible-recorder.git?path=/windows/6000.0/com.gameplay.recorder
 4. Click __Add__
 
 ### Method 2: Manual Installation
