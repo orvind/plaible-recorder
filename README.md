@@ -4,7 +4,7 @@ A Unity editor tool for capturing gameplay sessions as structured data. Records 
 
 ![Unity Version](https://img.shields.io/badge/Unity-2019.4%2B-blue)
 ![.NET](https://img.shields.io/badge/.NET-Framework%204.7.1-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## 🚀 Installation
 
