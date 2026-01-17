@@ -1,0 +1,15 @@
+{
+  "name": "com.gameplay.recorder",
+  "displayName": "Gameplay Recorder",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Records gameplay data including mechanics traces and coverage during play mode with an easy-to-use editor window interface.",
+  "author": {
+    "name": "Gameplay Recorder",
+    "email": "dev@example.com"
+  },
+  "keywords": ["gameplay", "recording", "export", "trace", "coverage"],
+  "dependencies": {
+     "com.unity.recorder": "5.1.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "exportPhysicsLayerCollisionMatrix": true,
+    "exportReferencedNonModelAssets": true,
+    "exportReferencedSprites": true,
+    "exportOriginalReferencedAssets": true,
+    "exportReferenced3DModels": true,
+    "exportAllScripts": true,
+    "exportCompletePrefabs": true
+}
