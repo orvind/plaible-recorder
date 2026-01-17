@@ -1,21 +1,179 @@
-MIT License
+# PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2026 orvind
+**Unity Gameplay Recorder**  
+Copyright © 2026 Orvind BV. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. GRANT OF LICENSE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This Proprietary Software License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity, "Licensee") and Orvind BV ("Licensor") for the Unity Gameplay Recorder software, including any associated documentation, updates, and components (collectively, the "Software").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+By downloading, installing, copying, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not download, install, copy, or use the Software.
+
+### 1.1 Permitted Use
+
+Subject to the terms and conditions of this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to:
+
+- Download and install the Software
+- Use the Software solely in connection with Orvind BV products and services
+- Generate and export gameplay recording data for submission to Orvind BV's platform
+- Access DLL files and compiled binaries for integration with Orvind BV systems
+
+### 1.2 Authorized Users
+
+This license is granted exclusively to:
+- Customers of Orvind BV
+- Partners authorized by Orvind BV
+- Developers working on projects approved by Orvind BV
+
+## 2. RESTRICTIONS
+
+Licensee shall NOT, and shall not permit any third party to:
+
+### 2.1 Reverse Engineering
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software
+- Decrypt, decode, or extract algorithms, methods, or techniques from compiled binaries
+- Use any automated tools or manual processes to reverse engineer the Software
+
+### 2.2 Unauthorized Use
+- Use the Software for any purpose other than interfacing with Orvind BV products and services
+- Use the Software in connection with competing products or services
+- Use the Software for commercial purposes not authorized by Orvind BV
+- Integrate the Software into products not approved by Orvind BV
+
+### 2.3 Distribution and Transfer
+- Distribute, sublicense, lease, rent, loan, or transfer the Software to third parties
+- Make the Software available over a network where it could be used by multiple devices at the same time
+- Share access credentials or license keys with unauthorized parties
+- Publish or disclose the Software or any portion thereof to any third party without prior written consent
+
+### 2.4 Modification
+- Modify, adapt, translate, or create derivative works based on the Software
+- Remove, alter, or obscure any proprietary notices, labels, or marks on the Software
+- Combine the Software with other software not approved by Orvind BV
+
+## 3. INTELLECTUAL PROPERTY RIGHTS
+
+### 3.1 Ownership
+All title, ownership rights, and intellectual property rights in and to the Software, including but not limited to:
+- Source code and compiled binaries (DLLs)
+- Documentation and user guides
+- Algorithms, methods, and techniques
+- Trade secrets and proprietary information
+- Trademarks, service marks, and logos
+
+shall remain the exclusive property of Orvind BV.
+
+### 3.2 No Assignment
+This Agreement does not grant Licensee any ownership rights in the Software. All rights not expressly granted herein are reserved by Orvind BV.
+
+### 3.3 Feedback
+Any suggestions, feedback, or ideas provided by Licensee regarding the Software shall become the property of Orvind BV without any obligation of compensation or confidentiality.
+
+## 4. CONFIDENTIALITY
+
+### 4.1 Confidential Information
+The Software, including its structure, organization, algorithms, and source code (if disclosed), constitutes confidential and proprietary information of Orvind BV.
+
+### 4.2 Obligations
+Licensee agrees to:
+- Maintain the confidentiality of the Software
+- Not disclose the Software to any third party
+- Use the same degree of care to protect the Software as Licensee uses for its own confidential information, but no less than reasonable care
+
+## 5. DATA AND PRIVACY
+
+### 5.1 Recorded Data
+Gameplay recordings and exported data generated by the Software remain the property of the Licensee, subject to any separate agreements with Orvind BV regarding data submission and usage.
+
+### 5.2 Usage Data
+Orvind BV may collect anonymous usage statistics and telemetry data to improve the Software. This data collection will comply with applicable privacy laws and regulations.
+
+## 6. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- WARRANTIES OF MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+- ACCURACY OR COMPLETENESS
+- TITLE OR QUIET ENJOYMENT
+
+ORVIND BV DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+## 7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ORVIND BV BE LIABLE FOR:
+- ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+- LOSS OF PROFITS, REVENUE, DATA, OR USE
+- BUSINESS INTERRUPTION OR LOSS OF BUSINESS OPPORTUNITIES
+- COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES
+
+ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN NO EVENT SHALL ORVIND BV'S TOTAL LIABILITY EXCEED THE AMOUNT PAID BY LICENSEE FOR THE SOFTWARE (IF ANY).
+
+## 8. TERM AND TERMINATION
+
+### 8.1 Term
+This Agreement is effective upon download or installation and continues until terminated.
+
+### 8.2 Termination by Licensee
+Licensee may terminate this Agreement at any time by:
+- Ceasing all use of the Software
+- Destroying all copies of the Software in Licensee's possession or control
+
+### 8.3 Termination by Licensor
+Orvind BV may terminate this Agreement immediately without notice if:
+- Licensee breaches any term of this Agreement
+- Licensee's authorized status with Orvind BV ends
+- Licensee engages in unauthorized use or distribution
+
+### 8.4 Effect of Termination
+Upon termination:
+- All rights granted under this Agreement immediately cease
+- Licensee must cease all use of the Software
+- Licensee must destroy all copies of the Software
+- Sections 3, 4, 6, 7, and 9 shall survive termination
+
+## 9. GENERAL PROVISIONS
+
+### 9.1 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Netherlands, without regard to its conflict of law provisions.
+
+### 9.2 Jurisdiction
+Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the courts of the Netherlands.
+
+### 9.3 Entire Agreement
+This Agreement constitutes the entire agreement between the parties concerning the Software and supersedes all prior or contemporaneous agreements, whether oral or written.
+
+### 9.4 Amendment
+Orvind BV reserves the right to modify this Agreement at any time. Continued use of the Software after such modifications constitutes acceptance of the updated terms.
+
+### 9.5 Severability
+If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+### 9.6 Waiver
+The failure of Orvind BV to enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+
+### 9.7 Export Control
+Licensee agrees to comply with all applicable export laws and regulations and shall not export or re-export the Software in violation of such laws.
+
+## 10. CONTACT INFORMATION
+
+For licensing inquiries, technical support, or questions regarding this Agreement:
+
+**Orvind BV**  
+Email: support@orvind.com  
+Website: https://orvind.com
+
+---
+
+**ACKNOWLEDGMENT**
+
+BY DOWNLOADING, INSTALLING, COPYING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY, OR USE THE SOFTWARE.
+
+---
+
+*Last Updated: January 17, 2026*  
+*Version: 1.0*
